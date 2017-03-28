@@ -1,0 +1,3 @@
+rootProject.name = 'DismissMess'
+
+include ':app'
